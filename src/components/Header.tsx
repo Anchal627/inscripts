@@ -1,6 +1,7 @@
 import { Bell, Search } from "lucide-react";
 import Panel from "../assets/Panel.png";
 import Profile from "../assets/Profile.png";
+
 function Header() {
   return (
     <div className="w-full h-[56px] flex justify-between items-center border-b pt-2 pr-4 pb-2 pl-4 border border-b border-gray-200 bg-white">
