@@ -56,14 +56,4 @@ The application follows a modular component architecture:
 - Google Sheets/Excel-like interface
 - Hover states and transitions
 
-## Future Enhancements
 
-- Column resizing and hiding
-- Advanced formula functions (SUM, AVERAGE, etc.)
-- Cell formatting (colors, borders, fonts)
-- Copy/paste functionality
-- Undo/redo operations
-- Export to Excel/CSV
-- Collaborative editing
-- Data validation
-- Charts and graphs
