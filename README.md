@@ -1,6 +1,6 @@
 # Spreadsheet Application
 
-A production-ready React spreadsheet application built with TypeScript and Tailwind CSS, featuring Excel/Google Sheets-like functionality.
+A production-ready React spreadsheet application built with TypeScript and Tailwind CSS.
 
 ## Features
 
